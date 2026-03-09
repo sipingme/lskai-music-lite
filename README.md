@@ -4,11 +4,11 @@
 
 <div align="center">
 <div align="center">
-  <a href="https://github.com/sipingme/laksai-music-player/stargazers">
-    <img src="https://img.shields.io/github/stars/sipingme/laksai-music-player?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=22c55e" alt="GitHub stars">
+  <a href="https://github.com/sipingme/lakshai-music-lite/stargazers">
+    <img src="https://img.shields.io/github/stars/sipingme/lakshai-music-lite?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=22c55e" alt="GitHub stars">
   </a>
-  <a href="https://github.com/sipingme/laksai-music-player/releases">
-    <img src="https://img.shields.io/github/v/release/sipingme/laksai-music-player?style=for-the-badge&logo=github&label=Release&logoColor=white&color=1a67af" alt="GitHub release">
+  <a href="https://github.com/sipingme/lakshai-music-lite/releases">
+    <img src="https://img.shields.io/github/v/release/sipingme/lakshai-music-lite?style=for-the-badge&logo=github&label=Release&logoColor=white&color=1a67af" alt="GitHub release">
   </a>
   <a href="https://pd.qq.com/s/cs056n33q?b=5">
     <img src="https://img.shields.io/badge/QQ频道-algermusic-blue?style=for-the-badge&color=yellow" alt="加入频道">
@@ -93,7 +93,7 @@ npm run dev
 
 ## 项目统计
 
-[![Stargazers over time](https://starchart.cc/sipingme/laksai-music-player.svg?variant=adaptive)](https://starchart.cc/sipingme/laksai-music-player)
+[![Stargazers over time](https://starchart.cc/sipingme/lakshai-music-lite.svg?variant=adaptive)](https://starchart.cc/sipingme/lakshai-music-lite)
 ![Alt](https://repobeats.axiom.co/api/embed/c4d01b3632e241c90cdec9508dfde86a7f54c9f5.svg 'Repobeats analytics image')
 
 ## 欢迎提Issues
